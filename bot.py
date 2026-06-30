@@ -4,9 +4,9 @@ import telebot
 from telebot import types
 
 # --- تنظیمات ---
-API_TOKEN = '8141425282:AAEq3AcFGewC59Xt95TxHswwmqNfh9gpqs8'
+API_TOKEN = '8975437459:AAEAKWcbIGu16xfTnfpmJuAr5MBGF2BZvM8'
 ADMIN_ID = 6912730774        # آیدی عددی خودت
-REVIEWER_ID = 987654321     # آیدی عددی بررسی‌کننده
+REVIEWER_ID = 2083289229     # آیدی عددی بررسی‌کننده
 
 bot = telebot.TeleBot(API_TOKEN)
 
